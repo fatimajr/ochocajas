@@ -15,10 +15,10 @@ div{
 	height:125px;
 }
 
-.cuadro3, .cuadro4, .cuadro5{
+.cuadro3{
 	display: inline-block;
 	margin:8px;
 }
-.cuadro6{
+.cuadro4{
 	display: inline-block;
 }
